@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+skitlearn
+pandas
+scipy
+numpy
+tensorflow-cpu
